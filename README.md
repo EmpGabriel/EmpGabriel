@@ -1,4 +1,4 @@
-## <h1>Hi there 👋  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+## <h1>Hi there  <img src="https://www.emojiall.com/images/240/microsoft-teams/1f44b.png" width="35"></h1>
 
 <!--
 **EmpGabriel/EmpGabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
