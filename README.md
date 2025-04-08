@@ -1,6 +1,3 @@
-##
-
-
 
 <h1 align="center"><img src="https://www.emojiall.com/images/240/microsoft-teams/1f44b.png" width="35"></h1>
 
